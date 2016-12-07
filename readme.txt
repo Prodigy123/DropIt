@@ -1,1 +1,1 @@
-Before you utilize this repository, you have to read me at first
+Before you use this repository, you have to read me at first
